@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Miscellaneous Projects</b>
-  - [Setting up a home lab](https://google.com)
+  - [Setting up a home lab]([https://google.com](https://github.com/harleydel/Cybersecurity-Home-Lab.git))
 - <b>Vulnhub/CTF Walkthroughs</b>
   - [Nothing here yet](https://google.com)
 - <b>Certifications</b>
