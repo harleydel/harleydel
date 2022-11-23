@@ -3,16 +3,16 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>Miscellaneous Projects</b>
-  - [Setting up a home lab]("https://google.com")
+  - [Setting up a home lab](https://google.com)
 - <b>Vulnhub/CTF Walkthroughs</b>
-  - [Nothing here yet]("https://google.com")
+  - [Nothing here yet](https://google.com)
 - <b>Certifications</b>
-  - [CompTIA Security+]("https://www.credly.com/badges/4cd7acc6-87ef-4aa5-9665-9707924dcff7?source=linked_in_profile")
-  - [ReliaQuest Cybersecurity Labs at the USF Muma College of Business]("https://www.credly.com/badges/35ca1a90-7c31-4691-b5e5-dd2c855d7b14?source=linked_in_profile")
+  - [CompTIA Security+](https://www.credly.com/badges/4cd7acc6-87ef-4aa5-9665-9707924dcff7?source=linked_in_profile)
+  - [ReliaQuest Cybersecurity Labs at the USF Muma College of Business](https://www.credly.com/badges/35ca1a90-7c31-4691-b5e5-dd2c855d7b14?source=linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="HarleyDelCastillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/harley-del-castillo-84288a205/
 
