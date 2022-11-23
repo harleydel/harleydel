@@ -7,7 +7,7 @@
 - <b>Vulnhub/CTF Walkthroughs</b>
   - [Nothing here yet]("https://google.com")
 - <b>Certifications</b>
-  - [CompTIA Security+]"https://www.credly.com/badges/4cd7acc6-87ef-4aa5-9665-9707924dcff7?source=linked_in_profile")
+  - [CompTIA Security+]("https://www.credly.com/badges/4cd7acc6-87ef-4aa5-9665-9707924dcff7?source=linked_in_profile")
   - [ReliaQuest Cybersecurity Labs at the USF Muma College of Business]("https://www.credly.com/badges/35ca1a90-7c31-4691-b5e5-dd2c855d7b14?source=linked_in_profile")
 
 <h2> 🤳 Connect with me:</h2>
